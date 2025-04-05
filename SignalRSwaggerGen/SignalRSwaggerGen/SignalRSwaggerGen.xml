@@ -279,13 +279,13 @@
             <exception cref="T:System.ArgumentNullException">Thrown if <paramref name="paths"/> or any of its items is null</exception>
             <exception cref="T:System.ArgumentException">Thrown if <paramref name="paths"/> is empty or any of its items does not exist</exception>
         </member>
-        <member name="M:Microsoft.Extensions.DependencyInjection.SwaggerGenOptionsExtensions.AddSignalRSwaggerGen(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)">
+        <member name="M:Microsoft.Extensions.DependencyInjection.SwaggerGenOptionsExtensions.AddSignalRSwaggerGen(Microsoft.AspNetCore.OpenApi.OpenApiOptions)">
             <summary>
             Add SignalRSwaggerGen to generate documentation for SignalR hubs
             </summary>
             <param name="swaggerGenOptions">...</param>
         </member>
-        <member name="M:Microsoft.Extensions.DependencyInjection.SwaggerGenOptionsExtensions.AddSignalRSwaggerGen(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions,System.Action{SignalRSwaggerGen.SignalRSwaggerGenOptions})">
+        <member name="M:Microsoft.Extensions.DependencyInjection.SwaggerGenOptionsExtensions.AddSignalRSwaggerGen(Microsoft.AspNetCore.OpenApi.OpenApiOptions,System.Action{SignalRSwaggerGen.SignalRSwaggerGenOptions})">
             <summary>
             Add SignalRSwaggerGen to generate documentation for SignalR hubs
             </summary>

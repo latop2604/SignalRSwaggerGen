@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31306.274
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRSwaggerGen", "SignalRSwaggerGen\SignalRSwaggerGen.csproj", "{7CB27570-0187-4ED6-AC83-81D79C6E89F7}"
 EndProject
@@ -18,8 +18,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CB27570-0187-4ED6-AC83-81D79C6E89F7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F75822CA-1FEF-45B9-8D63-B3F8789448C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
